@@ -1,0 +1,909 @@
+total 8
+-rw-r--r--   1 amobarak  wheel  177 Mar  8 07:45 README
+drwxr-xr-x  16 amobarak  wheel  544 Mar  8 07:58 src
+-rw-r--r--   1 amobarak  wheel    0 Mar  8 11:27 testfile.txt
+
+./.git/branches:
+
+./.git/hooks:
+total 80
+-rwxr-xr-x  1 amobarak  wheel   452 Mar  8 07:42 applypatch-msg.sample
+-rwxr-xr-x  1 amobarak  wheel   896 Mar  8 07:42 commit-msg.sample
+-rwxr-xr-x  1 amobarak  wheel   189 Mar  8 07:42 post-update.sample
+-rwxr-xr-x  1 amobarak  wheel   398 Mar  8 07:42 pre-applypatch.sample
+-rwxr-xr-x  1 amobarak  wheel  1704 Mar  8 07:42 pre-commit.sample
+-rwxr-xr-x  1 amobarak  wheel  1348 Mar  8 07:42 pre-push.sample
+-rwxr-xr-x  1 amobarak  wheel  4951 Mar  8 07:42 pre-rebase.sample
+-rwxr-xr-x  1 amobarak  wheel  1239 Mar  8 07:42 prepare-commit-msg.sample
+-rwxr-xr-x  1 amobarak  wheel  3611 Mar  8 07:42 update.sample
+
+./.git/info:
+total 8
+-rw-r--r--  1 amobarak  wheel  240 Mar  8 07:42 exclude
+
+./.git/logs:
+total 8
+-rw-r--r--  1 amobarak  wheel  338 Mar  8 10:59 HEAD
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 07:51 refs
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 07:46 heads
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 07:51 remotes
+
+./.git/logs/refs/heads:
+total 8
+-rw-r--r--  1 amobarak  wheel  338 Mar  8 10:59 master
+
+./.git/logs/refs/remotes:
+total 0
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 07:51 origin
+
+./.git/logs/refs/remotes/origin:
+total 8
+-rw-r--r--  1 amobarak  wheel  296 Mar  8 11:02 master
+
+./.git/objects:
+total 0
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 00
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 02
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 07:46 06
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 0b
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 0c
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 0d
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:56 11
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 14
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:56 16
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 18
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 19
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:56 1c
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 1e
+drwxr-xr-x  5 amobarak  wheel  170 Mar  8 10:59 21
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 24
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 25
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 2f
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 33
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 34
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 35
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 36
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 38
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 3d
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 40
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 42
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 4a
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 4c
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 4f
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 51
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 54
+drwxr-xr-x  5 amobarak  wheel  170 Mar  8 10:59 59
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 5b
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 5c
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 5d
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 5e
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 64
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 67
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 69
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 6a
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 6e
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 6f
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 78
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 7d
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 82
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 84
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 85
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 87
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 89
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 8b
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 8c
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 8f
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 90
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 91
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 92
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 93
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 95
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 96
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 98
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 99
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 a1
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 a2
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:54 a3
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 a8
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 ad
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 ae
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 af
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 b0
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 07:46 b3
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 b4
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:56 b6
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 b7
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 b9
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 ba
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 bb
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 bc
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 bd
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 be
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 bf
+drwxr-xr-x  5 amobarak  wheel  170 Mar  8 10:59 c7
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 c9
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 ce
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 d3
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 da
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 dc
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 de
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 e1
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 e2
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 e4
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 e6
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 ee
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 ef
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 f1
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 f4
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 f6
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 f8
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 fa
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 fc
+drwxr-xr-x  4 amobarak  wheel  136 Mar  8 10:59 fd
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:56 fe
+drwxr-xr-x  2 amobarak  wheel   68 Mar  8 07:42 info
+drwxr-xr-x  2 amobarak  wheel   68 Mar  8 07:42 pack
+
+./.git/objects/00:
+total 8
+-r--r--r--  1 amobarak  wheel  54 Mar  8 10:59 ebd5e90be7cb981c30fc4a1ad8ea2569b1abd8
+
+./.git/objects/02:
+total 8
+-r--r--r--  1 amobarak  wheel  1656 Mar  8 10:56 2d840a467b8a0d1f6ae8a83d28e305132edda1
+
+./.git/objects/06:
+total 8
+-r--r--r--  1 amobarak  wheel  153 Mar  8 07:46 00b03180cf89058b497c9a084a6fb52dfa5ab2
+
+./.git/objects/0b:
+total 8
+-r--r--r--  1 amobarak  wheel  62 Mar  8 10:59 5effdb456924945e9619a665856f723ed0ca0e
+
+./.git/objects/0c:
+total 8
+-r--r--r--  1 amobarak  wheel  1530 Mar  8 10:56 a16d5aa9fbd41901812eb23284eda2f0bdf212
+
+./.git/objects/0d:
+total 8
+-r--r--r--  1 amobarak  wheel  1043 Mar  8 10:56 9194d6e1ee827428cbd25a4a131b05e06af2f7
+
+./.git/objects/11:
+total 16
+-r--r--r--  1 amobarak  wheel  1806 Mar  8 10:56 3bc0d76507f74ed91c9b8432095c55eab64dc2
+-r--r--r--  1 amobarak  wheel  1586 Mar  8 10:56 f3dd5a8e60c5717cb23ea1cb8c5710aaaacad3
+
+./.git/objects/14:
+total 8
+-r--r--r--  1 amobarak  wheel  1288 Mar  8 10:56 12b564f61eb6c4bf31c0e842c76e70ce69c797
+
+./.git/objects/16:
+total 16
+-r--r--r--  1 amobarak  wheel   129 Mar  8 07:46 b9cec19adf914adacddbd64158a949ebbfe605
+-r--r--r--  1 amobarak  wheel  1687 Mar  8 10:56 dfd62ad5700a4cdd4bb486f15ac6760ece990b
+
+./.git/objects/18:
+total 16
+-r--r--r--  1 amobarak  wheel  57 Mar  8 10:59 4b175ea67fde39c4c30d36951a3da6ce0e1f8d
+-r--r--r--  1 amobarak  wheel  59 Mar  8 10:59 a7a13f413a2fc3e62543387b9848c3351eed87
+
+./.git/objects/19:
+total 8
+-r--r--r--  1 amobarak  wheel  170 Mar  8 10:59 c268c0e368d0042e13675666a5e538eb0c5c36
+
+./.git/objects/1c:
+total 16
+-r--r--r--  1 amobarak  wheel  1388 Mar  8 10:56 b68c404562c1c976baf74c4b3b596e62384b99
+-r--r--r--  1 amobarak  wheel  1021 Mar  8 10:56 be8da6b8bc5348642f46e1ea557e8313e137e5
+
+./.git/objects/1e:
+total 8
+-r--r--r--  1 amobarak  wheel  56 Mar  8 10:59 0f1d784cedcd2c3d56d93989b57f78727d4ca4
+
+./.git/objects/21:
+total 24
+-r--r--r--  1 amobarak  wheel   461 Mar  8 10:56 8063f55eb7aef0c343a19cdab9a41e7bfc5ab6
+-r--r--r--  1 amobarak  wheel    59 Mar  8 10:59 86dba8852a403a091e8d217541cf9cddfc68ee
+-r--r--r--  1 amobarak  wheel  3262 Mar  8 10:56 e86e72e319825da730639ceb3769d35125456c
+
+./.git/objects/24:
+total 8
+-r--r--r--  1 amobarak  wheel  46 Mar  8 10:59 056ef9a0cd32c47212ed008923b782a36b3028
+
+./.git/objects/25:
+total 8
+-r--r--r--  1 amobarak  wheel  55 Mar  8 10:59 1d60dadeef2cdf712999dc354ecb53160d8edf
+
+./.git/objects/2f:
+total 8
+-r--r--r--  1 amobarak  wheel  55 Mar  8 10:59 0b97c2416968e023248853e4fa474c3a56ae19
+
+./.git/objects/33:
+total 8
+-r--r--r--  1 amobarak  wheel  59 Mar  8 10:59 4a752ececdefe614b56cdd2603e059edd8d9b0
+
+./.git/objects/34:
+total 8
+-r--r--r--  1 amobarak  wheel  62 Mar  8 10:59 0d52a342155c6a5feda337ef3a9efda4b19515
+
+./.git/objects/35:
+total 8
+-r--r--r--  1 amobarak  wheel  55 Mar  8 10:59 2d3e2f19542b278bbe329efc76c0d1df039e76
+
+./.git/objects/36:
+total 8
+-r--r--r--  1 amobarak  wheel  230 Mar  8 10:59 d379dde68cc4d95007b076cbe7caaf86c80964
+
+./.git/objects/38:
+total 16
+-r--r--r--  1 amobarak  wheel  64 Mar  8 10:59 21bcca31ba1a1ad678fd37f14aa3d26171f80d
+-r--r--r--  1 amobarak  wheel  60 Mar  8 10:59 7503891325a6c5168d327c399130ab217e6d3e
+
+./.git/objects/3d:
+total 16
+-r--r--r--  1 amobarak  wheel    63 Mar  8 10:59 355ae3d7df33b3aa531e6a8ba21f47099c03a7
+-r--r--r--  1 amobarak  wheel  1900 Mar  8 10:56 8fab7e247a66d43d00ea72155ba0deb1df12b2
+
+./.git/objects/40:
+total 8
+-r--r--r--  1 amobarak  wheel  2206 Mar  8 10:56 a6898a64f7ef52d92b3bb6a1b007628e57fa69
+
+./.git/objects/42:
+total 8
+-r--r--r--  1 amobarak  wheel  54 Mar  8 10:59 7e3b742fdfbf7b7b9bff81e428bdf8daeb4d09
+
+./.git/objects/4a:
+total 16
+-r--r--r--  1 amobarak  wheel  59 Mar  8 10:59 78faedd7ef620bf7dec35d9209242acbf4c432
+-r--r--r--  1 amobarak  wheel  53 Mar  8 10:59 cf7046628510c04820681a7022df6f92fec6c6
+
+./.git/objects/4c:
+total 8
+-r--r--r--  1 amobarak  wheel  353 Mar  8 10:59 7f3e9dcefc15f6ee16778cfad49f4a1d544055
+
+./.git/objects/4f:
+total 8
+-r--r--r--  1 amobarak  wheel  54 Mar  8 10:59 bc8fbd7919f6a2ca003218f647e274fb93cf30
+
+./.git/objects/51:
+total 8
+-r--r--r--  1 amobarak  wheel  858 Mar  8 10:56 25bee24f9421528a6f2a4dbd6c9425f499afea
+
+./.git/objects/54:
+total 8
+-r--r--r--  1 amobarak  wheel  1847 Mar  8 10:56 f62ab73f112390c62bcd46362bbed87b6f4fc2
+
+./.git/objects/59:
+total 24
+-r--r--r--  1 amobarak  wheel    57 Mar  8 10:59 2c73c59ce4af9b6b18a1726817a1f314324f9a
+-r--r--r--  1 amobarak  wheel   966 Mar  8 10:56 90637195f8414a12432be620198b08c61cd8d9
+-r--r--r--  1 amobarak  wheel  1220 Mar  8 10:56 ea729bdc71da6aa59363e8dd5bae39d3816794
+
+./.git/objects/5b:
+total 8
+-r--r--r--  1 amobarak  wheel  59 Mar  8 10:59 edd57bc653310f33069f9f561c57618d8771bf
+
+./.git/objects/5c:
+total 8
+-r--r--r--  1 amobarak  wheel  27 Mar  8 10:56 a0973f8fe283e3fbca710c2b5ac5233228abdb
+
+./.git/objects/5d:
+total 16
+-r--r--r--  1 amobarak  wheel   60 Mar  8 10:59 85990afdd4d2c7bb9dc489a6a8880e69d576fa
+-r--r--r--  1 amobarak  wheel  873 Mar  8 10:56 f01e5627d976ea255ae30837f1ffc70a3e3e67
+
+./.git/objects/5e:
+total 8
+-r--r--r--  1 amobarak  wheel  59 Mar  8 10:59 1a4289bc02c911368eb652b8f72a79352de7d3
+
+./.git/objects/64:
+total 8
+-r--r--r--  1 amobarak  wheel  1154 Mar  8 10:56 fe4ba70681efa71f1d73886964dd6d402f4c09
+
+./.git/objects/67:
+total 8
+-r--r--r--  1 amobarak  wheel  1047 Mar  8 10:56 336b84ba6f500807dba69fe83e6bbfbca791b9
+
+./.git/objects/69:
+total 8
+-r--r--r--  1 amobarak  wheel  2484 Mar  8 10:56 0ed19b6774c0b668fe978ab00115f13c025b27
+
+./.git/objects/6a:
+total 8
+-r--r--r--  1 amobarak  wheel  58 Mar  8 10:59 a7d01bb8dd2a85f149acb67bbc94d7fa516de3
+
+./.git/objects/6e:
+total 16
+-r--r--r--  1 amobarak  wheel  107 Mar  8 10:59 922e05d37aee755fe43e646ed05cb88a28138b
+-r--r--r--  1 amobarak  wheel  914 Mar  8 10:56 d481c8e7413bfb9514daa25fef66985e1cdf6b
+
+./.git/objects/6f:
+total 8
+-r--r--r--  1 amobarak  wheel  1492 Mar  8 10:56 b8a9ce6e4af569e01eb59be9a10aec2b0f33ab
+
+./.git/objects/78:
+total 8
+-r--r--r--  1 amobarak  wheel  53 Mar  8 10:59 acecc0d4009e7ef26196a2dada96808d2a1c18
+
+./.git/objects/7d:
+total 8
+-r--r--r--  1 amobarak  wheel  52 Mar  8 10:59 0f11ec0d81bd1951af056c2a953622a87fd6e9
+
+./.git/objects/82:
+total 8
+-r--r--r--  1 amobarak  wheel  171 Mar  8 10:59 9549c526be96bc42d01f876a3a98c8320aec2f
+
+./.git/objects/84:
+total 8
+-r--r--r--  1 amobarak  wheel  59 Mar  8 10:59 069f7543cfd65379d6da9d67067a9c3db4940c
+
+./.git/objects/85:
+total 8
+-r--r--r--  1 amobarak  wheel  54 Mar  8 10:59 66c1f74988db30c5b67005b685421bdf10eebf
+
+./.git/objects/87:
+total 8
+-r--r--r--  1 amobarak  wheel  55 Mar  8 10:59 9e5db5dd8929ed7d27d2b5d22161b8d30c9e2f
+
+./.git/objects/89:
+total 8
+-r--r--r--  1 amobarak  wheel  1231 Mar  8 10:56 428873dd3998bac51de7aa629b8db9b8a3b995
+
+./.git/objects/8b:
+total 8
+-r--r--r--  1 amobarak  wheel  1137 Mar  8 10:56 dd746773f625b39340099c591404d741d78037
+
+./.git/objects/8c:
+total 8
+-r--r--r--  1 amobarak  wheel  2377 Mar  8 10:56 7832fe8b76bd0b421861a2d53632cabb776d04
+
+./.git/objects/8f:
+total 8
+-r--r--r--  1 amobarak  wheel  57 Mar  8 10:59 78b3371d21b8fe36dfe5633e3b8a1e8ea4c50b
+
+./.git/objects/90:
+total 8
+-r--r--r--  1 amobarak  wheel  55 Mar  8 10:59 d1e83426d1f523ac091b90ec8ded64c3bab5f9
+
+./.git/objects/91:
+total 8
+-r--r--r--  1 amobarak  wheel  59 Mar  8 10:59 a15378f29e50da7741f8d1f76347adf03b8043
+
+./.git/objects/92:
+total 8
+-r--r--r--  1 amobarak  wheel  1183 Mar  8 10:56 79c54e5d0dfa0f6e3ca72e03406644487664f8
+
+./.git/objects/93:
+total 8
+-r--r--r--  1 amobarak  wheel  53 Mar  8 10:59 3d676f59a3fbb8b6d7d1e57e59c6fdf8819e93
+
+./.git/objects/95:
+total 8
+-r--r--r--  1 amobarak  wheel  1800 Mar  8 10:56 68b507f64a0999b0fcb075d8cc23e93c7a590a
+
+./.git/objects/96:
+total 16
+-r--r--r--  1 amobarak  wheel  60 Mar  8 10:59 38a46959a6943a28a355bc7f42ab97ed670880
+-r--r--r--  1 amobarak  wheel  57 Mar  8 10:59 a0da79a82bef93b94fe539d224e9927be4e863
+
+./.git/objects/98:
+total 8
+-r--r--r--  1 amobarak  wheel  1054 Mar  8 10:56 61b9d19f4f68b2c9b66c9e7c3db414c6c40731
+
+./.git/objects/99:
+total 8
+-r--r--r--  1 amobarak  wheel  579 Mar  8 10:56 698592a8091fb51639bf7bdeab8548ea25e1c5
+
+./.git/objects/a1:
+total 8
+-r--r--r--  1 amobarak  wheel  168 Mar  8 10:59 7beb160a274c76c0240bcdb88e07c2340a594d
+
+./.git/objects/a2:
+total 16
+-r--r--r--  1 amobarak  wheel   143 Mar  8 10:59 27005b0e6c8977a02c722be1c596a34b5762e6
+-r--r--r--  1 amobarak  wheel  1267 Mar  8 10:56 f9292912530b6f3b80f04160e21a843d9df500
+
+./.git/objects/a3:
+total 8
+-r--r--r--  1 amobarak  wheel  22 Mar  8 10:54 b6e71b8cb2161e592d66e0a7f93c0f55e96880
+
+./.git/objects/a8:
+total 8
+-r--r--r--  1 amobarak  wheel  395 Mar  8 10:56 b0c1f02937f0430ab6fa86e1c5ba4cc87c6ef9
+
+./.git/objects/ad:
+total 8
+-r--r--r--  1 amobarak  wheel  1046 Mar  8 10:56 be2a648734294492807edd2585a06232132cfb
+
+./.git/objects/ae:
+total 8
+-r--r--r--  1 amobarak  wheel  696 Mar  8 10:56 2c504b65befc439d70da807361a58b8d5d6539
+
+./.git/objects/af:
+total 8
+-r--r--r--  1 amobarak  wheel  865 Mar  8 10:56 28260e756f949457c891643b1fdf1ae9182522
+
+./.git/objects/b0:
+total 8
+-r--r--r--  1 amobarak  wheel  821 Mar  8 10:56 f5210e1550dc9bdf431db15c4bb9d64a82da45
+
+./.git/objects/b3:
+total 8
+-r--r--r--  1 amobarak  wheel  50 Mar  8 07:46 6d60821ecdbb72ab5e7ee9372289d6ca04828b
+
+./.git/objects/b4:
+total 8
+-r--r--r--  1 amobarak  wheel  58 Mar  8 10:59 e1242bc487aac6d36540fbe9bda0a8a52ab9fa
+
+./.git/objects/b6:
+total 16
+-r--r--r--  1 amobarak  wheel   869 Mar  8 10:56 245444bef26ce33b7f4bd372c8081f19fcaa62
+-r--r--r--  1 amobarak  wheel  1028 Mar  8 10:56 e3f60e6dead4030d09245ebb2e1a73d0916db6
+
+./.git/objects/b7:
+total 8
+-r--r--r--  1 amobarak  wheel  829 Mar  8 10:56 4252b241a096c0e77172b41132e8185c6c61f3
+
+./.git/objects/b9:
+total 8
+-r--r--r--  1 amobarak  wheel  64 Mar  8 10:59 1e352a0ae3d36a5a407f001525952f8a2af1c9
+
+./.git/objects/ba:
+total 8
+-r--r--r--  1 amobarak  wheel  45 Mar  8 10:59 8a65e2cbb36e0e2dfba10eaf0182e4a6ab70d3
+
+./.git/objects/bb:
+total 8
+-r--r--r--  1 amobarak  wheel  1432 Mar  8 10:56 dc39d3aab3eb4c6288aa9078c47ce07623b2d3
+
+./.git/objects/bc:
+total 16
+-r--r--r--  1 amobarak  wheel  59 Mar  8 10:59 8c89f9a2a1dbe27ecbffcb69641a23dca5e479
+-r--r--r--  1 amobarak  wheel  54 Mar  8 10:59 bc12da63f78f9eb53f470e0c23abbae9b505f8
+
+./.git/objects/bd:
+total 8
+-r--r--r--  1 amobarak  wheel  60 Mar  8 10:59 6961f54abcd10aa39a79364eb733fa2b0c799f
+
+./.git/objects/be:
+total 8
+-r--r--r--  1 amobarak  wheel  261 Mar  8 10:59 65b5536b09088f6db538778760dfaf8171da82
+
+./.git/objects/bf:
+total 8
+-r--r--r--  1 amobarak  wheel  726 Mar  8 10:56 599983a1627bf84659a3d9a2aff0412e68bf0a
+
+./.git/objects/c7:
+total 24
+-r--r--r--  1 amobarak  wheel  2305 Mar  8 10:56 198f9255bd09baa368ee2d2388c048edd16a18
+-r--r--r--  1 amobarak  wheel    66 Mar  8 10:59 792c9d56a6f95bb208b756f72e7e9cb7c7c00e
+-r--r--r--  1 amobarak  wheel  1418 Mar  8 10:56 ad1e2e6b564e8bace150d64edf8114ae490098
+
+./.git/objects/c9:
+total 8
+-r--r--r--  1 amobarak  wheel  1151 Mar  8 10:56 c08f931a0f6f67209eadcb74045ba533d9de34
+
+./.git/objects/ce:
+total 16
+-r--r--r--  1 amobarak  wheel  75 Mar  8 10:59 0422f876b4e3bc0b32c85e6ca46148d4383262
+-r--r--r--  1 amobarak  wheel  58 Mar  8 10:59 62d568930d76a345ba37dfd51153e6f7686810
+
+./.git/objects/d3:
+total 16
+-r--r--r--  1 amobarak  wheel   307 Mar  8 10:59 b3d7d47a54716da08ba40868c130ca561e33d4
+-r--r--r--  1 amobarak  wheel  1082 Mar  8 10:56 c3a0f3c869ddd57d9a75ac7b664a2ed9703155
+
+./.git/objects/da:
+total 8
+-r--r--r--  1 amobarak  wheel  60 Mar  8 10:59 bc627b00a2bde0b65200b89138589c9937b607
+
+./.git/objects/dc:
+total 8
+-r--r--r--  1 amobarak  wheel  62 Mar  8 10:59 db5f44d38f716b9d71ab4b6b82d4821f7368a3
+
+./.git/objects/de:
+total 8
+-r--r--r--  1 amobarak  wheel  60 Mar  8 10:59 daadfc2dc8d9bcd5a769581a28bb1b773dbf84
+
+./.git/objects/e1:
+total 8
+-r--r--r--  1 amobarak  wheel  61 Mar  8 10:59 320ac837e92ed1a69a25483ff9cc76fb892207
+
+./.git/objects/e2:
+total 16
+-r--r--r--  1 amobarak  wheel    61 Mar  8 10:59 27b52a7792fa99d3bfceabbca7e5f576db8051
+-r--r--r--  1 amobarak  wheel  1300 Mar  8 10:56 e6970cc48d174d8813db3cb95a2ba724fdd30a
+
+./.git/objects/e4:
+total 16
+-r--r--r--  1 amobarak  wheel  1198 Mar  8 10:56 b3f9d095c9854fb6caee82202436a3fd31256b
+-r--r--r--  1 amobarak  wheel    56 Mar  8 10:59 cf6719768f8c03566e021b25b9d9011b1a3a31
+
+./.git/objects/e6:
+total 8
+-r--r--r--  1 amobarak  wheel  74 Mar  8 10:59 eb1d2e9b91e9f11994d8c960ea8685b0bbe8de
+
+./.git/objects/ee:
+total 16
+-r--r--r--  1 amobarak  wheel  2001 Mar  8 10:56 85bf0236f347b8576b5a83043725f9ed45cd35
+-r--r--r--  1 amobarak  wheel    47 Mar  8 10:59 d2ba8219be8fae24c3ee4d703e7f261078f12f
+
+./.git/objects/ef:
+total 16
+-r--r--r--  1 amobarak  wheel   60 Mar  8 10:59 5a443ed30fdb15e654fc4dcb8238cc04172354
+-r--r--r--  1 amobarak  wheel  115 Mar  8 10:59 b8e329ca9c134ef1c187c1b68675a6e4f354c8
+
+./.git/objects/f1:
+total 8
+-r--r--r--  1 amobarak  wheel  53 Mar  8 10:59 d119742e7f7d09d82b55aae9f536a5eb8cac7d
+
+./.git/objects/f4:
+total 8
+-r--r--r--  1 amobarak  wheel  482 Mar  8 10:56 d3f7c1191adf695ff3b8ecfe1ac56bcb172977
+
+./.git/objects/f6:
+total 8
+-r--r--r--  1 amobarak  wheel  60 Mar  8 10:59 69a3e640a76ad96f840eadf2bef7bc837593b1
+
+./.git/objects/f8:
+total 8
+-r--r--r--  1 amobarak  wheel  58 Mar  8 10:59 5129a7ff64784c36657f5631b6436ad8352364
+
+./.git/objects/fa:
+total 8
+-r--r--r--  1 amobarak  wheel  841 Mar  8 10:56 366463439958d163df83e64b6b211224a5ea6c
+
+./.git/objects/fc:
+total 8
+-r--r--r--  1 amobarak  wheel  54 Mar  8 10:59 dbe5409feb5462701e1b5db575265c79d3a2cb
+
+./.git/objects/fd:
+total 16
+-r--r--r--  1 amobarak  wheel  3093 Mar  8 10:56 2098766e2d5ed7e315a5296c9e162b271a0f10
+-r--r--r--  1 amobarak  wheel   128 Mar  8 10:59 eda2fd548a892ed6d2ef45e66694a40384b71e
+
+./.git/objects/fe:
+total 8
+-r--r--r--  1 amobarak  wheel  1720 Mar  8 10:56 0e662d9a045420c3ae30e1e45ab3adc2c86e57
+
+./.git/objects/info:
+
+./.git/objects/pack:
+
+./.git/refs:
+total 0
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 10:59 heads
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 07:51 remotes
+drwxr-xr-x  2 amobarak  wheel   68 Mar  8 07:42 tags
+
+./.git/refs/heads:
+total 8
+-rw-r--r--  1 amobarak  wheel  41 Mar  8 10:59 master
+
+./.git/refs/remotes:
+total 0
+drwxr-xr-x  3 amobarak  wheel  102 Mar  8 11:02 origin
+
+./.git/refs/remotes/origin:
+total 8
+-rw-r--r--  1 amobarak  wheel  41 Mar  8 11:02 master
+
+./.git/refs/tags:
+
+./src:
+total 0
+drwxrwxrwx@  3 amobarak  wheel  102 Oct  1  2002 Chap01
+drwxrwxrwx@  7 amobarak  wheel  238 Oct  1  2002 Chap02
+drwxrwxrwx@  6 amobarak  wheel  204 Oct  1  2002 Chap03
+drwxrwxrwx@  9 amobarak  wheel  306 Oct  1  2002 Chap04
+drwxrwxrwx@ 11 amobarak  wheel  374 Oct  1  2002 Chap05
+drwxrwxrwx@ 10 amobarak  wheel  340 Oct  1  2002 Chap06
+drwxrwxrwx@  7 amobarak  wheel  238 Oct  1  2002 Chap07
+drwxrwxrwx@  3 amobarak  wheel  102 Oct  1  2002 Chap08
+drwxrwxrwx@  3 amobarak  wheel  102 Oct  1  2002 Chap10
+drwxrwxrwx@  5 amobarak  wheel  170 Oct  1  2002 Chap11
+drwxrwxrwx@  4 amobarak  wheel  136 Oct  1  2002 Chap12
+drwxrwxrwx@  6 amobarak  wheel  204 Oct  1  2002 Chap13
+drwxrwxrwx@  4 amobarak  wheel  136 Oct  1  2002 Chap14
+
+./src/Chap01:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 Bank
+
+./src/Chap01/Bank:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  1382 Jul 18  2002 bank.java
+
+./src/Chap02:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 Array
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 ClassData
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 HighArray
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 LowArray
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 OrderedArray
+
+./src/Chap02/Array:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  2193 Jul 18  2002 array.java
+
+./src/Chap02/ClassData:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  4772 Jul 18  2002 classDataArray.java
+
+./src/Chap02/HighArray:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3460 Jul 18  2002 highArray.java
+
+./src/Chap02/LowArray:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  2709 Jul 18  2002 lowArray.java
+
+./src/Chap02/OrderedArray:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3908 Jul 18  2002 orderedArray.java
+
+./src/Chap03:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 BubbleSort
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 InsertSort
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 ObjectSort
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 SelectSort
+
+./src/Chap03/BubbleSort:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  2678 Jul 18  2002 bubbleSort.java
+
+./src/Chap03/InsertSort:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  2700 Mar 15  2002 insertSort.java
+
+./src/Chap03/ObjectSort:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3959 Jul 18  2002 objectSort.java
+
+./src/Chap03/SelectSort:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  2831 Jul 18  2002 selectSort.java
+
+./src/Chap04:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 Brackets
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 Infix
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 Postfix
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 PriorityQ
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 Queue
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 Reverse
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 Stack
+
+./src/Chap04/Brackets:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  4421 Jul 18  2002 brackets.java
+
+./src/Chap04/Infix:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  6948 Jul 18  2002 infix.java
+
+./src/Chap04/Postfix:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  5055 Jul 18  2002 postfix.java
+
+./src/Chap04/PriorityQ:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  2807 Jul 18  2002 priorityQ.java
+
+./src/Chap04/Queue:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3103 Jul 18  2002 queue.java
+
+./src/Chap04/Reverse:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3608 Jul 18  2002 reverse.java
+
+./src/Chap04/Stack:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  2387 Jul 18  2002 stack.java
+
+./src/Chap05:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 doublyLinked
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 firstLastList
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 interIterator
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 linkList
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 linkList2
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 linkQueue
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 linkStack
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 listInsertionSort
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 sortedList
+
+./src/Chap05/doublyLinked:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  7950 Jul 18  2002 doublyLinked.java
+
+./src/Chap05/firstLastList:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3991 Jul 18  2002 firstLastList.java
+
+./src/Chap05/interIterator:
+total 24
+-rw-rw-rw-@ 1 amobarak  wheel  8833 Jul 18  2002 interIterator.java
+
+./src/Chap05/linkList:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3581 Jul 18  2002 linkList.java
+
+./src/Chap05/linkList2:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  4562 Jul 18  2002 linkList2.java
+
+./src/Chap05/linkQueue:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  4540 Jul 18  2002 linkQueue.java
+
+./src/Chap05/linkStack:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  4220 Jul 18  2002 linkStack.java
+
+./src/Chap05/listInsertionSort:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3931 Jul 18  2002 listInsertionSort.java
+
+./src/Chap05/sortedList:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3629 Jul 18  2002 sortedList.java
+
+./src/Chap06:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 anagram
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 binarySearch
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 merge
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 mergeSort
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 stackTriangle
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 stackTriangle2
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 towers
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 triangle
+
+./src/Chap06/anagram:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  2775 Jul 18  2002 anagram.java
+
+./src/Chap06/binarySearch:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3641 Jul 18  2002 binarySearch.java
+
+./src/Chap06/merge:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  1775 Jul 18  2002 merge.java
+
+./src/Chap06/mergeSort:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  4112 Jul 18  2002 mergeSort.java
+
+./src/Chap06/stackTriangle:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  4691 Jul 18  2002 stackTriangle.java
+
+./src/Chap06/stackTriangle2:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3093 Jul 18  2002 stackTriangle2.java
+
+./src/Chap06/towers:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  1040 Jul 18  2002 towers.java
+
+./src/Chap06/triangle:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  1375 Jul 18  2002 triangle.java
+
+./src/Chap07:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 partition
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 quickSort1
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 quickSort2
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 quickSort3
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 shellSort
+
+./src/Chap07/partition:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3771 Jul 19  2002 partition.java
+
+./src/Chap07/quickSort1:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  4168 Jul 19  2002 quickSort1.java
+
+./src/Chap07/quickSort2:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  5725 Jul 19  2002 quickSort2.java
+
+./src/Chap07/quickSort3:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  5725 Jul 19  2002 quickSort3.java
+
+./src/Chap07/shellSort:
+total 8
+-rw-rw-rw-@ 1 amobarak  wheel  3008 Jul 19  2002 shellSort.java
+
+./src/Chap08:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 tree
+
+./src/Chap08/tree:
+total 32
+-rw-rw-rw-@ 1 amobarak  wheel  13309 Jul 19  2002 tree.java
+
+./src/Chap10:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 tree234
+
+./src/Chap10/tree234:
+total 24
+-rw-rw-rw-@ 1 amobarak  wheel  12185 Jul 19  2002 tree234.java
+
+./src/Chap11:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 hash
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 hashChain
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 hashDouble
+
+./src/Chap11/hash:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  6976 Jul 19  2002 hash.java
+
+./src/Chap11/hashChain:
+total 24
+-rw-rw-rw-@ 1 amobarak  wheel  8984 Jul 19  2002 hashChain.java
+
+./src/Chap11/hashDouble:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  7308 Jul 19  2002 hashDouble.java
+
+./src/Chap12:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 heap
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 heapSort
+
+./src/Chap12/heap:
+total 24
+-rw-rw-rw-@ 1 amobarak  wheel  9013 Jul 19  2002 heap.java
+
+./src/Chap12/heapSort:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  6477 Jul 19  2002 heapSort.java
+
+./src/Chap13:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 bfs
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 dfs
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 mst
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 topo
+
+./src/Chap13/bfs:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  5365 Sep  5  2002 bfs.java
+
+./src/Chap13/dfs:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  5216 Sep  5  2002 dfs.java
+
+./src/Chap13/mst:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  5742 Jul 19  2002 mst.java
+
+./src/Chap13/topo:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  5986 Jul 19  2002 topo.java
+
+./src/Chap14:
+total 0
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 mstw
+drwxrwxrwx@ 3 amobarak  wheel  102 Mar  8 08:04 path
+
+./src/Chap14/mstw:
+total 24
+-rw-rw-rw-@ 1 amobarak  wheel  8903 Jul 19  2002 mstw.java
+
+./src/Chap14/path:
+total 16
+-rw-rw-rw-@ 1 amobarak  wheel  8073 Jul 19  2002 path.java
