@@ -1,3 +1,5 @@
+conflicting test commit from laptop computer
+
 total 8
 -rw-r--r--   1 amobarak  wheel  177 Mar  8 07:45 README
 drwxr-xr-x  16 amobarak  wheel  544 Mar  8 07:58 src
